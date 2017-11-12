@@ -5,4 +5,4 @@
 
 
 
-The Following Project is part of the Submission towards Machine Learning Nanodegree
+The Following Project is part of the Submission towards Machine Learning Nanodegree provided by Udacity
